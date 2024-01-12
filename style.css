@@ -15,3 +15,8 @@ footer>div {
     font-weight: bold;
     text-shadow: 2px 2px white;
 }
+
+hr {
+    height: 2px;
+    background-color: black;
+}
